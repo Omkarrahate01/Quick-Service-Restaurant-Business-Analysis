@@ -40,3 +40,6 @@ Excel: Used for initial data cleaning and preparation.
 
 # Conclusion
 This project provided actionable insights to enhance Crunchy Corner's financial reporting and operational efficiency. Key recommendations include focusing on high-performing product categories, optimizing raw material and packaging costs, and streamlining operational expenses. Continuous monitoring and data-driven decision-making are essential for long-term profitability and growth.
+
+# Dashboard and Dataset link - 
+https://drive.google.com/drive/folders/1yrxZXDsZHVeysrzLycfpsZ_QMr3pjfi0?usp=sharing
