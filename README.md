@@ -45,4 +45,7 @@ This project provided actionable insights to enhance Crunchy Corner's financial 
 
 ![image](https://github.com/user-attachments/assets/351b870a-66b2-446a-8bfb-1a772a591bbf)
 
+![image](https://github.com/user-attachments/assets/01224625-7070-49d2-b435-927eb2d63eb6)
+
+
 
